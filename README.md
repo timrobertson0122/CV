@@ -47,13 +47,13 @@ I have an appreciation for good design and try to keep UX in mind during project
 
 ## Experience
 
-**Sportradar** (Mar 2014 - April 2015)
-  *Analyst*
+**Sportradar** (Mar 2014 - April 2015)  
+  -*Analyst*
   - Detailed data analysis and report writing for major international clients such as UEFA
 
-**Betfair** (Aug 2006 - May 2013)
-  *Numerous team leader roles across operations, risk, trading and integrity*
-  - Relocated to build a new team from the ground up, successfully managed this team for 3.5 years whilst smashing all previous departmental KPI's for performance and accuracy.
+**Betfair** (Aug 2006 - May 2013)  
+  -*Numerous team leader roles across operations, risk, trading and integrity*
+  - Relocated internationally to build a new team from the ground up, successfully managed this team for 3.5 years whilst smashing all previous departmental KPI's for performance and accuracy.
  
 ## Other Study
  - Certificate in Information Assurance Awareness

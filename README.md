@@ -1,48 +1,65 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-## Skills
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+An enthusiastic, committed team player with a passion for leveraging new technologies to improve the world we live in. My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, where I have recently graduated from their 12-week intensive web development bootcamp. I'm now seeking a junior developer role where I can continue to learn, explore my passions and contribute in a friendly, positive environment.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April - July 2015)
+[Makers Academy](http://www.makersacademy.com/home) is a highly selective 12 week full-time web development course where test-driven development (TDD) and agile working practices are fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP, SOLID, MVC, and group work implementing Agile best practices. Six/seven days a week for twelve weeks gave me fantastic exposure to full stack, with particular focus on the following technologies:
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+Technology | Language/Framework/Tool
+-----------|------------------------
+**Mobile** | Cordova, Ionic, Xcode/Android Studio
+**Front End** | HTML5, CSS, Bootstrap, Javascript, jQuery, Angular.js
+**Back End** | Ruby, Rails, Sinatra, Node.js
+**Databases & ORMs** | PostgreSQL, MongoDB, SQL, ActiveRecord, DataMapper
+**Testing** | RSpec, Capybara, Jasmine, Cucumber, Karma, Protractor
+**Other** | APIs, version control (Git), AJAX, Json, REST
+**Soft Skills** | Agile, pair programming, group work, communication
 
-#### Your University / College (start_date to end_date)
+## Recent Projects
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+GitHub Repo | Live URL | Project Description
+--- | --- | ---
+[Treemo](https://github.com/treemoapp) | [treemo-dev.herokuapp.com](http://treemo-dev.herokuapp.com/) | For my final project at Makers Academy, I worked with three other students to deliver an app that leveraged corporate social responsibility to tackle the issue of deforestation.
+[Name](repo) | [app name](app url) | For my final project at Makers Academy, I worked with three other students to deliver an app that leveraged corporate social responsibility to tackle the issue of deforestation.
+[Name](repo) | [app name](app url) | For my final project at Makers Academy, I worked with three other students to deliver an app that leveraged corporate social responsibility to tackle the issue of deforestation.
+[Name](repo) | [app name](app url) | For my final project at Makers Academy, I worked with three other students to deliver an app that leveraged corporate social responsibility to tackle the issue of deforestation.
+[Name](repo) | [app name](app url) | For my final project at Makers Academy, I worked with three other students to deliver an app that leveraged corporate social responsibility to tackle the issue of deforestation.
 
-#### Any other qualifications
+## Languages
+
+#### Ruby
+
+Where it all began - I love Ruby for it's syntactic sugar, how it often reads like English, and its clear and concise documentation. Ruby exposed me to OOP and SOLID design principles, which I strive to adhere to in my code. I enjoy Rails for the ease of generating an MVP/proof of concept.
+
+#### JavaScript
+
+What I've seen so far of Javacript and it's vast collection of libraries/frameworks excites me and I'm very keen to develop my knowledge of how JS can provide a full-stack solution. I particularly enjoyed developing a hybrid mobile app for my final project at Makers using Angular (Ionic).
+
+#### Design
+
+I have an appreciation for good design and try to keep UX in mind when I build apps. As such I have some familiarity with Adobe Creative Suite (particularly Photoshop) and mockup/framework tools such as Balsamiq. In the past I have also produced and edited video for broadcast.
+
+## LBC (life before code)
+
+#### Ravensbourne College of Design 
+
+- Foundation BA in Broadcast Technology and Production
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Sportradar** (Mar 2014 - April 2015)
+  *Analyst*
+  - Detailed data analysis and report writing for major international clients such as UEFA
+
+**Betfair** (Aug 2006 - May 2013)
+  *Numerous team leader roles across operations, risk, trading and integrity*
+  - relocated to build a new team from scratch, successfully managed this team for 3.5 years whilst smashing all previous departmental KPI's for performanc and accuracy.
+
+## Contact Me
+- 07833 492 288
+- [timrobertson@outlook.com](mailto:timrobertson@outlook.com)
+- [Personal Portfolio Site](http://www.timrobertsonworks.com)
+- [Twitter Feed](https://twitter.com/robertsonworks)
+- [GitHub Profile](https://github.com/timrobertson0122)

@@ -67,6 +67,6 @@ I have an appreciation for good design and try to keep UX in mind during project
 <img src="http://stackoverflow.com/users/flair/4428270.png" width="208" height="58" alt="profile for Tim Robertson at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tim Robertson at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-## Contact Me
-- 07833 492 288
-- [timrobertson@outlook.com](mailto:timrobertson@outlook.com)
+## Contact Me 
+:phone: 07833 492 288
+:email: [timrobertson@outlook.com](mailto:timrobertson@outlook.com)

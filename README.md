@@ -1,6 +1,7 @@
-## Tim Robertson
+## Tim Robertson :shipit:
 
-An enthusiastic, committed team player with a passion for leveraging new technologies to improve the world we live in. My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, from where I have recently graduated. I'm now seeking a junior developer role where I can continue to learn, explore my passions, and contribute in a friendly and positive professional environment.
+### tl;dr
+```An enthusiastic, committed team player with a passion for leveraging new technologies to improve the world we live in. My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, from where I have recently graduated. I'm now seeking a junior developer role where I can continue to learn, explore my passions, and contribute in a friendly and positive professional environment.```
 
 #### Makers Academy (April - July 2015)
 [Makers Academy](http://www.makersacademy.com) is a highly selective 12 week full-time web development course where test-driven development (TDD) and agile working practices are the fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group work implementing Agile best practices. Six/seven days a week for twelve weeks gave me fantastic exposure to the full tech stack, with particular focus on the following technologies:
@@ -59,7 +60,7 @@ I have an appreciation for good design and try to keep UX in mind during project
  - Digital Analytics Fundamentals (Google)
 
 ## Check Me Out
-[GitHub Profile](https://github.com/timrobertson0122) | [Personal Portfolio Site](http://www.timrobertsonworks.com) | [Twitter Feed](https://twitter.com/robertsonworks)
+:octocat: [GitHub Profile](https://github.com/timrobertson0122) | [Personal Portfolio Site](http://www.timrobertsonworks.com) | [Twitter Feed](https://twitter.com/robertsonworks)
 <br>
 <a href="http://stackoverflow.com/users/4428270/tim-robertson">
 <img src="http://stackoverflow.com/users/flair/4428270.png" width="208" height="58" alt="profile for Tim Robertson at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tim Robertson at Stack Overflow, Q&amp;A for professional and enthusiast programmers">

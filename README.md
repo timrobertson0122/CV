@@ -1,11 +1,9 @@
-## Your Name
+## Tim Robertson
 
 An enthusiastic, committed team player with a passion for leveraging new technologies to improve the world we live in. My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, where I have recently graduated from their 12-week intensive web development bootcamp. I'm now seeking a junior developer role where I can continue to learn, explore my passions and contribute in a friendly, positive environment.
 
-## Education
-
 #### Makers Academy (April - July 2015)
-[Makers Academy](http://www.makersacademy.com/home) is a highly selective 12 week full-time web development course where test-driven development (TDD) and agile working practices are fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP, SOLID, MVC, and group work implementing Agile best practices. Six/seven days a week for twelve weeks gave me fantastic exposure to full stack, with particular focus on the following technologies:
+[Makers Academy](http://www.makersacademy.com) is a highly selective 12 week full-time web development course where test-driven development (TDD) and agile working practices are fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP, SOLID, MVC, and group work implementing Agile best practices. Six/seven days a week for twelve weeks gave me fantastic exposure to full stack, with particular focus on the following technologies:
 
 Technology | Language/Framework/Tool
 -----------|------------------------
@@ -45,7 +43,7 @@ I have an appreciation for good design and try to keep UX in mind when I build a
 
 #### Ravensbourne College of Design 
 
-- Foundation BA in Broadcast Technology and Production
+- Foundation BA in Broadcast Production and Technology
 
 ## Experience
 
@@ -56,10 +54,21 @@ I have an appreciation for good design and try to keep UX in mind when I build a
 **Betfair** (Aug 2006 - May 2013)
   *Numerous team leader roles across operations, risk, trading and integrity*
   - relocated to build a new team from scratch, successfully managed this team for 3.5 years whilst smashing all previous departmental KPI's for performanc and accuracy.
+ 
+## Other Study
+ - Certificate in Information Assurance Awareness
+ - Digital Analytics Fundamentals (Google)
+
+## Check Me Out
+- [GitHub Profile](https://github.com/timrobertson0122)
+- [Personal Portfolio Site](http://www.timrobertsonworks.com)
+- [Twitter Feed](https://twitter.com/robertsonworks)
+<br>
+<a href="http://stackoverflow.com/users/4428270/tim-robertson">
+<img src="http://stackoverflow.com/users/flair/4428270.png" width="208" height="58" alt="profile for Tim Robertson at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tim Robertson at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
 
 ## Contact Me
 - 07833 492 288
 - [timrobertson@outlook.com](mailto:timrobertson@outlook.com)
-- [Personal Portfolio Site](http://www.timrobertsonworks.com)
-- [Twitter Feed](https://twitter.com/robertsonworks)
-- [GitHub Profile](https://github.com/timrobertson0122)

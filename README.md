@@ -59,9 +59,7 @@ I have an appreciation for good design and try to keep UX in mind during project
  - Digital Analytics Fundamentals (Google)
 
 ## Check Me Out
-- [GitHub Profile](https://github.com/timrobertson0122)
-- [Personal Portfolio Site](http://www.timrobertsonworks.com)
-- [Twitter Feed](https://twitter.com/robertsonworks)
+[GitHub Profile](https://github.com/timrobertson0122) | [Personal Portfolio Site](http://www.timrobertsonworks.com) | [Twitter Feed](https://twitter.com/robertsonworks)
 <br>
 <a href="http://stackoverflow.com/users/4428270/tim-robertson">
 <img src="http://stackoverflow.com/users/flair/4428270.png" width="208" height="58" alt="profile for Tim Robertson at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tim Robertson at Stack Overflow, Q&amp;A for professional and enthusiast programmers">

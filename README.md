@@ -21,19 +21,19 @@ Technology | Language/Framework/Tool
 GitHub Repo | Live URL | Project Description
 --- | --- | ---
 [Treemo](https://github.com/treemoapp) | [treemo-dev.herokuapp.com](http://treemo-dev.herokuapp.com/) | For my final project at Makers Academy, I worked with three other students to deliver an app that leveraged corporate social responsibility to tackle the issue of deforestation.
-[Name](repo) | [app name](app url) | For my final project at Makers Academy, I worked with three other students to deliver an app that leveraged corporate social responsibility to tackle the issue of deforestation.
-[Name](repo) | [app name](app url) | For my final project at Makers Academy, I worked with three other students to deliver an app that leveraged corporate social responsibility to tackle the issue of deforestation.
-[Name](repo) | [app name](app url) | For my final project at Makers Academy, I worked with three other students to deliver an app that leveraged corporate social responsibility to tackle the issue of deforestation.
+[Binstagram](https://github.com/timrobertson0122/instagram-challenge/tree/master/binstagram) | [app name](app url) | Instagram clone etc - Ruby on Rails (sort nesting, style, tests/coverage)
+[Thermostat](https://github.com/timrobertson0122/thermostat) | [app name](app url) | Thermostat (add features, finish, style, tests/coverage)
+[Chitter Challenge](https://github.com/timrobertson0122/chitter-challenge) | [app name](app url) | Twitter clone - Ruby Sinatra (add features, finish, style, tests/coverage)
 
 ## Languages
 
 #### Ruby
 
-Where it all began - I love Ruby for it's syntactic sugar, how it often reads like English, and its clear and concise documentation. Ruby introduced me to OOP and SOLID design principles, which I strive to apply to my code. I appreciate Rails for the ease of generating an MVP/proof of concept.
+Where it all began - I love Ruby for it's syntactic sugar, how it often reads practically like English, and its clear and concise documentation. Ruby introduced me to OOP and SOLID design principles, which I strive to apply to my code. I appreciate Rails for the ease of generating an MVP/proof of concept.
 
 #### JavaScript
 
-What I've seen so far of Javacript and it's vast collection of libraries/frameworks excites me and I'm very keen to develop my knowledge of how JS can provide a full-stack solution. I particularly enjoyed developing a hybrid mobile app for my final project at Makers using Angular (Ionic).
+What I've seen so far of Javacript and it's vast collection of libraries/frameworks excites me and I'm particularly keen to develop my knowledge of how JS can provide a full-stack solution. I thoroughly enjoyed developing a hybrid mobile app for my final project at Makers using Angular (Ionic).
 
 #### Design
 
@@ -49,11 +49,15 @@ I have an appreciation for good design and try to keep UX in mind during project
 
 **Sportradar** (Mar 2014 - April 2015)  
   -*Analyst*
-  - Detailed data analysis and report writing for major international clients such as UEFA
+  - Skilled in conducting detailed data analysis and writing high quality reports for major international clients such as UEFA
+  - Product development work using JIRA
+  - Conducted peer training on Excel
 
 **Betfair** (Aug 2006 - May 2013)  
   -*Numerous team leader roles across operations, risk, trading and integrity*
-  - Relocated internationally to build a new team from the ground up, successfully managed this team for 3.5 years whilst smashing all previous departmental KPI's for performance and accuracy.
+  - Relocated to establish an international team
+  - Set and exceeded departmental KPIs for performance and accuracy
+  - Use of SQL, Business Objects, VBA
  
 ## Other Study
  - Certificate in Information Assurance Awareness

@@ -48,13 +48,13 @@ I have an appreciation for good design and try to keep UX in mind during project
 ## Experience
 
 **Sportradar** (Mar 2014 - April 2015)  
-  -*Analyst*
+  - *Analyst*
   - Skilled in conducting detailed data analysis and writing high quality reports for major international clients such as UEFA
   - Product development work using JIRA
   - Conducted peer training on Excel
 
 **Betfair** (Aug 2006 - May 2013)  
-  -*Numerous team leader roles across operations, risk, trading and integrity*
+  - *Numerous team leader roles across operations, risk, trading and integrity*
   - Relocated to establish an international team
   - Set and exceeded departmental KPIs for performance and accuracy
   - Use of SQL, Business Objects, VBA

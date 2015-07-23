@@ -4,7 +4,7 @@
 ```An enthusiastic, committed team player with a passion for leveraging new technologies to improve the world we live in. My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, from where I have recently graduated. I'm now seeking a junior developer role where I can continue to learn, explore my passions, and contribute in a friendly and positive professional environment.```
 
 #### Makers Academy (April - July 2015)
-[Makers Academy](http://www.makersacademy.com) is a highly selective 12 week full-time web development course where test-driven development (TDD) and agile working practices are the fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group work implementing Agile best practices. Six/seven days a week for twelve weeks gave me fantastic exposure to the full tech stack, with particular focus on the following technologies:
+[Makers Academy](http://www.makersacademy.com) is a highly selective 12-week full-time web development course where test-driven development (TDD) and agile working practices are the fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group work implementing Agile best practices. Six/seven days a week for twelve weeks gave me fantastic exposure to the full tech stack, with particular focus on the following technologies:
 
 Technology | Language/Framework/Tool
 -----------|------------------------
@@ -13,7 +13,7 @@ Technology | Language/Framework/Tool
 **Back End** | Ruby, Rails, Sinatra, Node.js
 **Databases & ORMs** | PostgreSQL, MongoDB, SQL, ActiveRecord, DataMapper
 **Testing** | RSpec, Capybara, Jasmine, Cucumber, Karma, Protractor
-**Other** | APIs, version control (Git), AJAX, Json, REST
+**Other** | REST(ful) APIs, version control (Git), AJAX, JSON
 **Soft Skills** | Agile, pair programming, group work, communication
 
 ## Recent Projects
@@ -29,15 +29,15 @@ GitHub Repo | Live URL | Project Description
 
 #### Ruby
 
-Where it all began - I love Ruby for it's syntactic sugar, how it often reads practically like English, and its clear and concise documentation. Ruby introduced me to OOP and SOLID design principles, which I strive to apply to my code. I appreciate Rails for the ease of generating an MVP/proof of concept.
+Where it all began - I love Ruby for its syntactic sugar, how it often reads practically like English, and the clear and concise documentation. Ruby introduced me to OOP and SOLID design principles, which I strive to apply to my code. I appreciate Rails for the ease of generating an MVP/proof of concept.
 
 #### JavaScript
 
-What I've seen so far of Javacript and it's vast collection of libraries/frameworks excites me and I'm particularly keen to develop my knowledge of how JS can provide a full-stack solution. I thoroughly enjoyed developing a hybrid mobile app for my final project at Makers using Angular (Ionic).
+What I've seen so far of Javascript and it's vast collection of libraries/frameworks excites me and I am particularly keen to develop my knowledge of how JS can provide a full-stack solution. I thoroughly enjoyed developing a hybrid mobile app for my final project at Makers using Angular (Ionic).
 
 #### Design
 
-I have an appreciation for good design and try to keep UX in mind during project planning. Having studied the principles of UX/UI design I have some familiarity with Adobe Creative Suite (particularly Photoshop) and mockup/framework tools such as Balsamiq. In the past I have also produced and edited audio/video for broadcast.
+I have an appreciation for good design and try to keep UX in mind during project planning. Having studied the principles of UX/UI design I have some familiarity with Adobe Creative Suite (particularly Photoshop) and mockup/framework tools such as Balsamiq. Previously, I have also produced and edited audio/video for broadcast.
 
 ## LBC (life before code)
 
@@ -49,13 +49,13 @@ I have an appreciation for good design and try to keep UX in mind during project
 
 **Sportradar** (Mar 2014 - April 2015)  
    *Analyst*
-  - Skilled in conducting detailed data analysis and writing high quality reports for major international clients such as UEFA
+  - Skilled in conducting detailed data analysis and writing high-quality reports for major international clients such as UEFA
   - Product development work using JIRA
-  - Conducted peer training on Excel
+  - Conducted peer training on Microsoft Excel
 
 **Betfair** (Aug 2006 - May 2013)  
-   *Numerous team leader roles across operations, risk, trading and integrity*
-  - Relocated to establish an international team
+   *Numerous team leader roles across operations, risk, trading, and integrity*
+  - Relocated to establish and manage an international team
   - Set and exceeded departmental KPIs for performance and accuracy
   - Use of SQL, Business Objects, VBA
  

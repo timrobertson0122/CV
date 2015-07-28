@@ -3,12 +3,20 @@ http://timrobertson0122.github.io/CV
 ## Tim Robertson :shipit:
 
 ### tl;dr
-```An enthusiastic, committed team player with a passion for leveraging new technologies to improve the world we live in. My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, from where I have recently graduated. I'm now seeking a junior developer role where I can continue to learn, explore my passions, and contribute in a friendly and positive professional environment.```
+```An enthusiastic, committed team player with a passion for leveraging new technologies to improve the world we live in.```
 
-#### Makers Academy (April - July 2015)
-[Makers Academy](http://www.makersacademy.com) is a highly selective 12-week full-time web development course where test-driven development (TDD) and agile working practices are the fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group work implementing Agile best practices. Six/seven days a week for twelve weeks gave me fantastic exposure to the full tech stack, with particular focus on the following technologies:
+My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, from where I have recently graduated. I'm now seeking a junior developer role where I can continue to learn, explore my passions, and contribute in a friendly and positive professional environment.
 
-Technology | Language/Framework/Tool
+### Makers Academy (April - July 2015)
+[Makers Academy](http://www.makersacademy.com) is a highly selective 12-week full-time web development course where test-driven development (TDD) and agile working practices are the fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group project work. In three months I was exposed to full-stack solutions across Ruby and/or Javascript, basic front-end styling and a wide range of testing suites.
+
+### What I Do Really Well
+
+**Domain mapping/project planning** - I'm well versed in writing user stories and domain mapping to define and design the code I will write - adhering to core design principles and keeping the clients' needs at the heart of the project.
+**Test-driven-development** - The first line of code I ever wrote at Makers was a test and I'm a complete advocate for TDD. It drives the emergence of my code and allows it to adapt as my understanding of the task evolves. Thorough unit testing provides clear documentation and efficient debugging.
+**Soft skills** - 
+
+Technology | What I Do Well
 -----------|------------------------
 **Mobile** | Cordova, Ionic, Xcode/Android Studio
 **Front End** | HTML5, CSS, Bootstrap, Javascript, jQuery, Angular.js

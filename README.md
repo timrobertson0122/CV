@@ -12,8 +12,8 @@ My experience in operational team management at one of the UK's largest online t
 
 ### What I Do Really Well
 
-**Project Planning** - I am well versed in writing user stories and domain mapping to define and design the code I will write - adhering to core design principles (SOLID) and keeping the clients' needs at the heart of the project.
-**Test-driven Development** - The first line of code I ever wrote at Makers Academy was a test and I am a complete advocate for TDD. It drives the emergence of my code and allows it to adapt as my understanding of the task evolves. Thorough unit testing provides clear documentation and efficient debugging.
+**Project Planning** - I am well versed in writing user stories and domain mapping to define and design the code I will write - adhering to core design principles (SOLID) and keeping the clients' needs at the heart of the project.  
+**Test-driven Development** - The first line of code I ever wrote at Makers Academy was a test and I am a complete advocate for TDD. It drives the emergence of my code and allows it to adapt as my understanding of the task evolves. Thorough unit testing provides clear documentation and efficient debugging.  
 **Agile/team skills** - The successful delivery of numerous group projects during my time at Makers Academy provided opportunities to implement Agile best practices, and also hone my communication skills in an ever-changing group dynamic.
 
 ## Recent Projects

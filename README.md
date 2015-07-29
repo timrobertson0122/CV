@@ -3,37 +3,27 @@ http://timrobertson0122.github.io/CV
 ## Tim Robertson :shipit:
 
 ### tl;dr
-```An enthusiastic, committed team player with a passion for leveraging new technologies to improve the world we live in.```
+```An enthusiastic and committed team player with a passion for leveraging new technologies to improve the world we live in.```
 
-My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, from where I have recently graduated. I'm now seeking a junior developer role where I can continue to learn, explore my passions, and contribute in a friendly and positive professional environment.
+My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, from where I have recently graduated. I am now seeking a junior developer role where I can continue to learn, explore my passions, and contribute in a friendly and positive professional environment.
 
 ### Makers Academy (April - July 2015)
-[Makers Academy](http://www.makersacademy.com) is a highly selective 12-week full-time web development course where test-driven development (TDD) and agile working practices are the fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group project work. In three months I was exposed to full-stack solutions across Ruby and/or Javascript, basic front-end styling and a wide range of testing suites.
+[Makers Academy](http://www.makersacademy.com) is a highly selective 12-week full-time web development course where test-driven development (TDD) and agile working practices are the fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group project work. In three months I was exposed to full-stack solutions across Ruby and Javascript, basic front-end styling, and a wide range of testing suites.
 
 ### What I Do Really Well
 
-**Domain mapping/project planning** - I'm well versed in writing user stories and domain mapping to define and design the code I will write - adhering to core design principles and keeping the clients' needs at the heart of the project.
-**Test-driven-development** - The first line of code I ever wrote at Makers was a test and I'm a complete advocate for TDD. It drives the emergence of my code and allows it to adapt as my understanding of the task evolves. Thorough unit testing provides clear documentation and efficient debugging.
-**Soft skills** - 
-
-Technology | What I Do Well
------------|------------------------
-**Mobile** | Cordova, Ionic, Xcode/Android Studio
-**Front End** | HTML5, CSS, Bootstrap, Javascript, jQuery, Angular.js
-**Back End** | Ruby, Rails, Sinatra, Node.js
-**Databases & ORMs** | PostgreSQL, MongoDB, SQL, ActiveRecord, DataMapper
-**Testing** | RSpec, Capybara, Jasmine, Cucumber, Karma, Protractor
-**Other** | REST(ful) APIs, version control (Git), AJAX, JSON
-**Soft Skills** | Agile, pair programming, group work, communication
+**Project Planning** - I am well versed in writing user stories and domain mapping to define and design the code I will write - adhering to core design principles (SOLID) and keeping the clients' needs at the heart of the project.
+**Test-driven Development** - The first line of code I ever wrote at Makers Academy was a test and I am a complete advocate for TDD. It drives the emergence of my code and allows it to adapt as my understanding of the task evolves. Thorough unit testing provides clear documentation and efficient debugging.
+**Agile/team skills** - The successful delivery of numerous group projects during my time at Makers Academy provided opportunities to implement Agile best practices, and also hone my communication skills in an ever-changing group dynamic.
 
 ## Recent Projects
 
 GitHub Repo | Live URL | Project Description
 --- | --- | ---
-[Treemo](https://github.com/treemoapp) | [treemo-dev.herokuapp.com](http://treemo-dev.herokuapp.com/) | Built a hybrid mobile app using Ionic. Interacts with custom-built api and Facebook graph. Features geolocation and google maps plugins and is available as an sdk for android.
-[Binstagram](https://github.com/timrobertson0122/instagram-challenge/tree/master/binstagram) | [app name](app url) | Instagram clone built on Rails. Features user authentication, Facebook sign in, AWS for image storage, ActiveRecord ORM. Fully tested with Rspec and Capybara (sort nesting, style, tests/coverage)
-[Thermostat](https://github.com/timrobertson0122/thermostat) | [app name](app url) | Thermostat (add features, finish, style, tests/coverage)
-[Chitter Challenge](https://github.com/timrobertson0122/chitter-challenge) | [app name](app url) | Twitter clone - Written in Ruby, served by Sinatra, tested with Rspec and Capybara. Uses DataMapper and Postgresql for DB, Bcrypt for password encryption and email integration via the Mailgun API. Bootstrap for looks (add features, finish, style, tests/coverage)
+[Treemo](https://github.com/treemoapp) | [treemo-dev.herokuapp.com](http://treemo-dev.herokuapp.com/) | Built a hybrid mobile app using Ionic. It interacts with a custom-built API and also Facebook graph. Features geolocation and google maps plugins and is available as a fully-functional SDK for android.
+[Binstagram](https://github.com/timrobertson0122/instagram-challenge/tree/master/binstagram) | [app name](app url) | Instagram clone built on Rails. Features user authentication, Facebook sign in, AWS for image storage, ActiveRecord ORM. Fully tested with RSpec and Capybara.
+[Thermostat](https://github.com/timrobertson0122/thermostat) | [app name](app url) | Recreated a simple home thermostat in Javascript with some JQuery. Additionally, it queries a public weather API to return a description of the current weather in that city. 
+[Chitter Challenge](https://github.com/timrobertson0122/chitter-challenge) | [app name](app url) | Twitter clone - Written in Ruby, served by Sinatra, tested with RSpec and Capybara. Uses DataMapper and Postgresql for DB, Bcrypt for password encryption and email integration via the Mailgun API. Bootstrap for looks.
 
 ## Languages
 
@@ -43,11 +33,11 @@ Where it all began - I love Ruby for its syntactic sugar, how it often reads pra
 
 #### JavaScript
 
-What I've seen so far of Javascript and it's vast collection of libraries/frameworks excites me and I am particularly keen to develop my knowledge of how JS can provide a full-stack solution. I thoroughly enjoyed developing a hybrid mobile app for my final project at Makers using Angular (Ionic).
+What I've seen so far of Javascript and it's vast collection of libraries/frameworks excites me and I am particularly keen to develop my knowledge of how JS can provide a full-stack solution, having dabbled with MEAN.js. I'm comfortable implementing Karma and Protractor for client-side unit and feature testing with Jasmine.
 
 #### Mobile
 
-Our two-week final project provided the opportunity to tackle a new technology, and I opted to teach myself how to build a hybrid mobile app using Ionic (Angular) and Cordova. Whilst debugging across multiple platforms proved tricky, I very much enjoyed the experience. Ultimately, I was able to produce an app that was fully function on my android device, and could be demoed during the project presentation.
+Our two-week final project provided the opportunity to tackle a new technology, and I opted to teach myself how to build a hybrid mobile app using Ionic (Angular) and Cordova. Whilst debugging across multiple platforms proved tricky, I very much enjoyed the experience. Ultimately, I was able to produce an app that was fully functional on my android device, and could be demoed during the project presentation.
 
 #### Design
 

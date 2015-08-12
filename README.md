@@ -21,8 +21,8 @@ My experience in operational team management at one of the UK's largest online t
 GitHub Repo | Live URL | Project Description
 --- | --- | ---
 [Treemo](https://github.com/treemoapp) | [treemo-dev.herokuapp.com](http://treemo-dev.herokuapp.com/) | Built a hybrid mobile app using Ionic. It interacts with a custom-built API and also Facebook graph. Features geolocation and google maps plugins and is available as a fully-functional SDK for android.
-[Binstagram](https://github.com/timrobertson0122/binstagram) | [binstagram.herokuapp.com](http://binstagram.herokuapp.com) | Instagram clone built on Rails. Features user authentication, Facebook sign in, AWS for image storage, ActiveRecord ORM. Fully tested with RSpec and Capybara.
-[Thermostat](https://github.com/timrobertson0122/thermostat) | [app name](app url) | Recreated a simple home thermostat in Javascript with some JQuery. Additionally, it queries a public weather API to return a description of the current weather in that city. 
+[Binstagram](https://github.com/timrobertson0122/binstagram) | [binstagram.herokuapp.com](http://binstagram.herokuapp.com) | Instagram clone built on Rails. Features user authentication, Facebook sign in, AWS for image storage, ActiveRecord ORM. Tested with RSpec and Capybara.
+[Thermostat](https://github.com/timrobertson0122/thermostat) | [jsthermostat.herokuapp.com](http://jsthermostat.herokuapp.com) | Recreated a simple home thermostat in JQuery/Javascript. Additionally, it queries a public weather API to return a description of the current weather in that city. 
 [Chitter Challenge](https://github.com/timrobertson0122/chitter-challenge) | [chitter-challenge.herokuapp.com](http://chitter-challenge.herokuapp.com) | Twitter clone - Written in Ruby, served by Sinatra, tested with RSpec and Capybara. Uses DataMapper and Postgresql for DB, Bcrypt for password encryption and email integration via the Mailgun API. Bootstrap for looks.
 
 ## Languages

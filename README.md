@@ -33,7 +33,7 @@ Where it all began - I love Ruby for its syntactic sugar, how it often reads pra
 
 #### JavaScript
 
-What I've seen so far of Javascript and it's vast collection of libraries/frameworks excites me and I am particularly keen to develop my knowledge of how JS can provide a full-stack solution, having dabbled with MEAN.js. I'm comfortable implementing Karma and Protractor for client-side unit and feature testing with Jasmine.
+What I've seen so far of JavaScript and its vast collection of libraries/frameworks excites me and I am particularly keen to develop my knowledge of how JS can provide a full-stack solution, having dabbled with MEAN.js. I'm comfortable implementing Karma and Protractor for client-side unit and feature testing with Jasmine.
 
 #### Mobile
 

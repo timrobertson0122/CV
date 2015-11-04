@@ -1,6 +1,7 @@
-http://timrobertson0122.github.io/CV
-
 ## Tim Robertson :shipit:
+### [View Online](http://timrobertson0122.github.io/CV)
+
+To download a pdf copy of the CV, [click here](https://github.com/timrobertson0122/CV/blob/master/TimRobertson.pdf?raw=true).
 
 ### tl;dr
 ```An enthusiastic and committed team player with a passion for leveraging new technologies to improve the world we live in.```

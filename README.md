@@ -1,5 +1,6 @@
 ## Tim Robertson :shipit:
-### [View Online](http://timrobertson0122.github.io/CV)
+
+Kindly hosted on [Github pages](http://timrobertson0122.github.io/CV)
 
 To download a pdf copy of the CV, [click here](https://github.com/timrobertson0122/CV/blob/master/TimRobertson.pdf?raw=true).  
 

@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "Tim Robertson",
+    "label": "Junior Full-Stack Developer",
+    "picture": "https://avatars2.githubusercontent.com/u/2273224?v=3&s=460",
+    "email": "timrobertson@outlook.com",
+    "phone": "07833 492288",
+    "website": "http://www.timrobertsonworks.com",
+    "tl;dr": "An enthusiastic and committed team player with a passion for leveraging new technologies to improve the world we live in.",
+    "summary": "My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, from where I have recently graduated. I am now seeking a junior developer role where I can continue to learn, explore my passions, and contribute in a friendly and positive professional environment.",
+    "location": {
+      "address": "133a Harbut Road",
+      "postalCode": "SW11 2RD",
+      "city": "SW11",
+      "countryCode": "UK",
+      "region": "London"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/timrobertson0122",
+        "username": "timrobertson0122",
+        "network": "GitHub"
+      },
+      {
+        "url": "https://uk.linkedin.com/in/timrobertson0122",
+        "username": "Tim Robertson",
+        "network": "LinkedIn"
+      },
+      {
+        "url": "https://twitter.com/robertsonworks",
+        "username": "robertsonworks",
+        "network": "Twitter"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Makers Academy",
+      "position": "Student",
+      "website": "http://www.makersacademy.com",
+      "startDate": "2015-04-27",
+      "endDate": "2015-07-17",
+      "summary": "Makers Academy is a highly selective 12-week full-time web development course where test-driven development (TDD) and agile working practices are the fundamentals. Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group project work. In three months I was exposed to full-stack solutions across Ruby and Javascript, basic front-end styling, and a wide range of testing suites.",
+      "highlights": [
+        "TDD/BDD",
+        "Agile",
+        "Pair programming",
+        "Ruby/Rails",
+        "Full-stack Javascript",
+        "Version control"
+      ]
+    },
+    {
+      "company": "Betfair",
+      "position": "numerous",
+      "website": "http://www.betfair.com",
+      "startDate": "2006-06-14",
+      "endDate": "2013-05-13",
+      "summary": "Numerous team leader roles across operations, risk, trading, and integrity. Relocated to establish and manage an international team. Set and exceeded departmental KPIs for performance and accuracy. Use of SQL, Business Objects, VBA"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ravensbourne College/University of Sussex",
+      "area": "BA",
+      "studyType": "Broadcast Production and Technology",
+      "startDate": "2004-09-01",
+      "endDate": "2006-06-01",
+      "gpa": "Foundation"
+    },
+    {
+      "institution": "Darrick Wood Sixth Form",
+      "area": "A-Level",
+      "studyType": "A-Levels",
+      "startDate": "2000-09-01",
+      "endDate": "2002-06-01",
+      "gpa": "4 A-Levels A-C grades",
+      "courses": [
+          "Maths",
+          "Business Studies",
+          "Media Studies",
+          "General Studies"
+      ]
+    },
+    {
+      "institution": "Darrick Wood Secondary Schhol",
+      "area": "Secondary",
+      "studyType": "GCSEs",
+      "startDate": "1995-09-01",
+      "endDate": "2000-06-01",
+      "gpa": "11 GCSEs A*-C grades",
+      "courses": [
+          "Maths (A*)",
+          "Business Studies (A*)",
+          "English Literature (A*)"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Ruby",
+        "Python"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Junior",
+      "keywords": [
+        "Ruby on Rails",
+        "Sinatra",
+        "Angular",
+        "Ionic"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Junior",
+      "keywords": [
+        "TDD",
+        "BDD",
+        "RSpec",
+        "Jasmine",
+        "Capybara",
+        "Cucumber",
+        "Karma",
+        "Protractor",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Project management",
+        "User stories",
+        "Domain mapping",
+        "SOLID",
+        "Git",
+        "Object-oriented design",
+        "Pair programming",
+        "Agile development",
+        "Teamwork",
+        "Communication",
+        "Shipping to deadlines"
+      ]
+    }
+  ]
+}

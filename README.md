@@ -1,4 +1,5 @@
-## Tim Robertson ![Codewars](https://www.codewars.com/users/timrobertson0122/badges/micro)
+## Tim Robertson 
+![Codewars](https://www.codewars.com/users/timrobertson0122/badges/micro)
 
 Kindly hosted on [Github pages](http://timrobertson0122.github.io/CV)
 

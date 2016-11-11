@@ -4,12 +4,15 @@ Kindly hosted on [Github pages](http://timrobertson0122.github.io/CV)
 
 To download a pdf copy of the CV, [click here](https://github.com/timrobertson0122/CV/blob/master/TimRobertson.pdf?raw=true).  
 
-Like your data raw? View the CV as a [JSON object](http://registry.jsonresume.org/4c900b9a.json).
-
 ### tl;dr
-```An enthusiastic and committed team player with a passion for leveraging new technologies to improve the world we live in.```
+```An enthusiastic and committed developer with a passion for leveraging new technologies to improve the world we live in.```
 
-My experience in operational team management at one of the UK's largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, from where I have recently graduated. I am now seeking a junior developer role where I can continue to learn, explore my passions, and contribute in a friendly and positive professional environment.
+My experience in operational team management at one of the UK’s largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, where I began my journey into coding. I now possess commercial experience as a backend developer and am looking to further my personal development in this industry.
+
+### Populi Ltd / Junior Developer (Jan 2016 - Present, London)
+Voxtours.com - Personally built a Rails backend and simple CMS for this existing static website. 
+
+Wave - Inherited an existing, and live, Rails CRUD application of significant size and have built out a variety of new features and functionality, as well as adding and maintaining ~ 92% test coverage. Recently also migrated this to Rails 5.
 
 ### Makers Academy (April - July 2015)
 [Makers Academy](http://www.makersacademy.com) is a highly selective 12-week full-time web development course where test-driven development (TDD) and agile working practices are the fundamentals.  Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group project work. In three months I was exposed to full-stack solutions across Ruby and Javascript, basic front-end styling, and a wide range of testing suites.

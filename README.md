@@ -34,13 +34,13 @@ GitHub Repo | Live URL | Project Description
 
 ## Languages
 
-#### Ruby
+#### Ruby/Rails
 
-Where it all began - I love Ruby for its syntactic sugar, how it often reads practically like English, and the clear and concise documentation. Ruby introduced me to OOP and SOLID design principles, which I strive to apply to my code. I appreciate Rails for the ease of generating an MVP/proof of concept.
+Where it all began - I love Ruby for its syntactic sugar, how it often reads practically like English, and the clear and concise documentation. Ruby introduced me to OOP and SOLID design principles, which I strive to apply to my code. Rails enables me to quickly and easily generate an MVP/proof of concept and I enjoy functionality such as ActiveRecord and ActiveSupport in making the main tasks significantly more straightforward. 
 
 #### JavaScript
 
-What I've seen so far of JavaScript and its vast collection of libraries/frameworks excites me and I am particularly keen to develop my knowledge of how JS can provide a full-stack solution, having dabbled with MEAN.js. I'm comfortable implementing Karma and Protractor for client-side unit and feature testing with Jasmine.
+I look to write vanilla JS wherever possible, however, will use libraries/frameworks where it makes sense to. I’m comfortable implementing Karma and Protractor for client-side unit and feature testing with Jasmine.
 
 #### Mobile
 

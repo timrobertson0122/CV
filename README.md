@@ -1,5 +1,4 @@
-## Tim Robertson :shipit:
-![Codewars](https://www.codewars.com/users/timrobertson0122/badges/micr)
+## Tim Robertson :shipit: ![Codewars](https://www.codewars.com/users/timrobertson0122/badges/micro
 
 Kindly hosted on [Github pages](http://timrobertson0122.github.io/CV)
 

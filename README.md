@@ -10,6 +10,9 @@ To download a pdf copy of the CV, [click here](https://github.com/timrobertson01
 
 My experience in operational team management at one of the UK’s largest online technology companies left me hungry to understand the tech that powered it, and to develop the skills to create my own web apps. This led me to Makers Academy, where I began my journey into coding. I now possess commercial experience as a backend developer and am looking to further my personal development in this industry.
 
+### Assicurazioni Generali / VBA Developer (Dec 2016 - Apr 2017, London)
+Initial 8-week contract which extended to 16 weeks assisting in the development and documentation of a VBA application for the Underwriting department of this insurance company. Primarily involved writing VBA code to connect up an Excel interface with a SQL Server database.
+
 ### Populi Ltd / Junior Developer (Jan 2016 - Present, London)
 Voxtours.com - Personally built a Rails backend and simple CMS for this existing static website. 
 

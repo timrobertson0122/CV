@@ -81,6 +81,8 @@ Built a hybrid mobile app using Ionic. It interacts with a custom-built API and 
 ## Other Study
  - Certificate in Information Assurance Awareness
  - Digital Analytics Fundamentals (Google)
+ - MongoJS101 (MongoDB Uni)
+
 
 ## Check Me Out
 :octocat: [GitHub Profile](https://github.com/timrobertson0122) | [Twitter Feed](https://twitter.com/robertsonworks)

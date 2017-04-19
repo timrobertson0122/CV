@@ -27,32 +27,36 @@ Wave - Inherited an existing, and live, Rails CRUD application of significant si
 **Test-driven Development** - The first line of code I ever wrote at Makers Academy was a test and I am a complete advocate for TDD. It drives the emergence of my code and allows it to adapt as my understanding of the task evolves. Thorough unit testing provides clear documentation and efficient debugging.  
 **Agile/team skills** - The successful delivery of numerous group projects during my time at Makers Academy provided opportunities to implement Agile best practices, and also hone my communication skills in an ever-changing group dynamic.
 
-## Recent Projects
-
-GitHub Repo | Live URL | Project Description
---- | --- | ---
-[Treemo](https://github.com/treemoapp) | [treemo-dev.herokuapp.com](http://treemo-dev.herokuapp.com/) | Built a hybrid mobile app using Ionic. It interacts with a custom-built API and also Facebook graph. Features geolocation and google maps plugins and is available as a fully-functional SDK for android.
-[Binstagram](https://github.com/timrobertson0122/binstagram) | [binstagram.herokuapp.com](http://binstagram.herokuapp.com) | Instagram clone built on Rails. Features user authentication, Facebook sign in, AWS for image storage, ActiveRecord ORM. Tested with RSpec and Capybara.
-[Thermostat](https://github.com/timrobertson0122/thermostat) | [jsthermostat.herokuapp.com](http://jsthermostat.herokuapp.com) | Recreated a simple home thermostat in JQuery/Javascript. Additionally, it queries a public weather API to return a description of the current weather in that city. 
-[Chitter Challenge](https://github.com/timrobertson0122/chitter-challenge) | [chitter-challenge.herokuapp.com](http://chitter-challenge.herokuapp.com) | Twitter clone - Written in Ruby, served by Sinatra, tested with RSpec and Capybara. Uses DataMapper and Postgresql for DB, Bcrypt for password encryption and email integration via the Mailgun API. Bootstrap for looks.
-
-## Languages
+### Skills
 
 #### Ruby/Rails
 
-Where it all began - I love Ruby for its syntactic sugar, how it often reads practically like English, and the clear and concise documentation. Ruby introduced me to OOP and SOLID design principles, which I strive to apply to my code. Rails enables me to quickly and easily generate an MVP/proof of concept and I enjoy functionality such as ActiveRecord and ActiveSupport in making the main tasks significantly more straightforward. 
+Where it all began - I love Ruby for its syntactic sugar, how it often reads practically like English, and the clear and concise documentation. Ruby introduced me to OOP and SOLID design principles, which I strive to apply to my code. Rails enables me to quickly and easily generate an MVP/proof of concept and I enjoy functionality such as ActiveRecord and ActiveSupport in making the main tasks significantly more straightforward.
 
 #### JavaScript
 
 I look to write vanilla JS wherever possible, however, will use libraries/frameworks where it makes sense to. I’m comfortable implementing Karma and Protractor for client-side unit and feature testing with Jasmine.
 
-#### Mobile
-
-Our two-week final project provided the opportunity to tackle a new technology, and I opted to teach myself how to build a hybrid mobile app using Ionic (Angular) and Cordova. Whilst debugging across multiple platforms proved tricky, I very much enjoyed the experience. Ultimately, I was able to produce an app that was fully functional on my android device, and could be demoed during the project presentation.
-
 #### Design
 
-I have an appreciation for good design and try to keep UX in mind during project planning. Having studied the principles of UX/UI design I have some familiarity with Adobe Creative Suite (particularly Photoshop) and mockup/framework tools such as Balsamiq. Previously, I have also produced and edited audio/video for broadcast.
+I have an appreciation for good design and try to keep UX in mind during project planning. Having studied the principles of UX/UI design I am also familiar with Adobe’s Creative Suite (particularly Photoshop) and mock-up/framework tools such as Balsamiq. Previously, I have also produced and edited audio and video for broadcast.
+
+I’m also comfortable with *Git*, *SQL* and NoSQL DBs (*MongoDB*), automated testing, CI/CD, and have some knowledge of AngularJS, Node.js, and Python.
+
+## Recent Projects
+
+#### VBA Application
+
+Worked closely with stakeholders to build out a number of features across four connected tools. Implemented the SQL database including deployment scripts and worked closely with SysAdmin to adhere to DB design principles. Built various ad-hoc scripts and tools to manipulate imported data in Excel. This offered a different challenge for me and a chance to develop my SQL DB knowledge and write some fairly complex queries.
+
+#### Wave
+
+Inherited an existing, and live, Rails CRUD application of significant size and have built out a variety of new features and functionality, as well as adding and maintaining ~ 92% test coverage. Recently also migrated this to Rails 5.
+
+#### Treemo (personal project)
+https://github.com/treemoapp  http://treemo-dev.herokuapp.com/
+
+Built a hybrid mobile app using Ionic. It interacts with a custom-built API and also Facebook graph. Features geolocation and google maps plugins and is available as a fully-functional SDK for android.
 
 ## LBC (life before code)
 
